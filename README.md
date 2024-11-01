@@ -1,0 +1,1 @@
+This repo contains the source code for some of the projects I completed in the University of Helsinki's MOOC Java Programming course. Most of the projects built on each other, so these are a few examples of my solutions to a few of the larger problems.
